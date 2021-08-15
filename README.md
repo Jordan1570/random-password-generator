@@ -14,8 +14,9 @@
 
 ## Usage
 
+https://github.com/Jordan1570/random-password-generator
 
-
+https://jordan1570.github.io/random-password-generator/
 
 
 - When you first get to the website press the generate password button. Once you do that it will ask you how long do you want your password to be, which characters would you like your password to have and it will generate it to your liking. 
